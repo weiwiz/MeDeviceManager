@@ -1,0 +1,14 @@
+{
+  "self": {
+    "type": {
+      "id": "060908000000",
+      "name": "device_manager",
+      "icon": ""
+    },
+    "module": "./lib/me-device-manager"
+  },
+  "zookeeper": {
+    "host": "115.28.241.149",
+    "port": 2181
+  }
+}

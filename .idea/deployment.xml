@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ALiCloud">
+    <serverData>
+      <paths name="ALiCloud">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/weiwiz/meOcer/MeDeviceManager" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/opt/weiwiz/meOcer/MeDeviceManager1" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="server_test">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
